@@ -1,2 +1,2 @@
 # maze-solver
-typescript
+solving maze using typescript
